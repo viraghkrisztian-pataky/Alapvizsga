@@ -1,7 +1,7 @@
 # Alapvizsga
-Gyakorló alapvizsga feladat
-![Topológia](gyakorlo-januar.png)
-##Feladatok:
+Gyakorló alapvizsga feladat<br>
+![Topológia](gyakorlo-januar.png)<br>
+## Feladatok:
 
     1. Hozzon létre egy fájlt SAJARNEV néven a szimulációs program segítségével. Továbbiakban ebben a fájlban dolgozzon
     2. Válassza ki a feladatban megadott készülékeket és helyezze el a munkalapon!
