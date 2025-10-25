@@ -1,0 +1,2 @@
+# Alapvizsga
+Alapvizsgához szükséges
